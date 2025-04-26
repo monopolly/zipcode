@@ -1,4 +1,4 @@
-module zipcode
+module github.com/monopolly/zipcode
 
 go 1.24.0
 
